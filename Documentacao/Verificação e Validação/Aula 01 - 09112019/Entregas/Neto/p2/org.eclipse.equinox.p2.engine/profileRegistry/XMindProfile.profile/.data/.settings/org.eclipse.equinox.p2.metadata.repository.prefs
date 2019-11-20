@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/description=
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/enabled=true
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/isSystem=true
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/name=/home/developer/.var/app/net.xmind.XMind8/data/.app/.eclipseextension
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/provider=
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/uri=file\:/home/developer/.var/app/net.xmind.XMind8/data/.app/.eclipseextension
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_.eclipseextension/version=1
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_XMind_amd64_configuration_org.eclipse.osgi_717_data_listener_1925729951/description=
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_XMind_amd64_configuration_org.eclipse.osgi_717_data_listener_1925729951/isSystem=true
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_XMind_amd64_configuration_org.eclipse.osgi_717_data_listener_1925729951/name=dropins
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_XMind_amd64_configuration_org.eclipse.osgi_717_data_listener_1925729951/provider=
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_XMind_amd64_configuration_org.eclipse.osgi_717_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_XMind_amd64_configuration_org.eclipse.osgi_717_data_listener_1925729951/uri=file\:/home/developer/.var/app/net.xmind.XMind8/data/.app/XMind_amd64/configuration/org.eclipse.osgi/717/data/listener_1925729951/
+repositories/file\:_home_developer_.var_app_net.xmind.XMind8_data_.app_XMind_amd64_configuration_org.eclipse.osgi_717_data_listener_1925729951/version=1
